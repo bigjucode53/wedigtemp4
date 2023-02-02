@@ -3717,7 +3717,11 @@ display: none;
   opacity: 0;
   transform: translateY(100%);
   transition: all 500ms ease-out;
- 
+  font-family: Raleway, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+    line-height: 2;
   background: linear-gradient(360deg, rgba(47,49,65,1) 0%, rgba(163,198,204,0.28757440476190477) 100%);
 }
 
