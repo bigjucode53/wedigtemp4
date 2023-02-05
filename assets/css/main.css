@@ -3636,6 +3636,7 @@ display: none;
 
 				#banner p {
 					font-size: 0.8em;
+					font-weight: 600;
 				}
 
 		}
@@ -4339,7 +4340,9 @@ display: none;
 				#footer .inner .contact {
 					margin: 0 0 3em 0;
 				}
-
+				#footer .inner .copyright li {
+					color: rgb(255 255 255 / 84%);
+				}
 	}
 
 	@media screen and (max-width: 480px) {
